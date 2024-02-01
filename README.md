@@ -3,7 +3,7 @@ Toyota Celsior UCF21 LS400 Docs ru and en version
 
 # 1998 Lexus LS400 Specifications
 ### ENGINE
-| #   | Domain                    | Статус Коды | 
+| #   | Domain                    | ㅤ | 
 | --- | ------------------------- | ------- |
 | ㅤ   | Type              | 90° V8, aluminum block and heads |
 | ㅤ   | Displacement              | 4.0 liters (242 cubic inches) |
