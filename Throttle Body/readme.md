@@ -1,2 +1,2 @@
 
-<img src='img.png'>
+<img src='chrome_bUxYVu81x0.png'>
